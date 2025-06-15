@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Shailendra 👋  
+**Full-Stack Developer | Open-Source Enthusiast | Tech Explorer**  
 
-<!--
-**shailendra-iiitm/shailendra-iiitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra-shukla)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **About Me**  
+- 🔭 **Currently working on:** MERN stack projects.  
+- 🌱 **Learning:** Advanced backend architectures.  
+- 👯 **Looking to collaborate:** On open-source or innovative web projects.  
+- 💬 **Ask me about:** Web development, JavaScript, or career growth in tech!  
+- 📫 **Reach me:** shailendra@iiitmanipur.ac.in
+
+---
+
+### 🛠️ **Tech Stack**  
+**Languages & Frameworks:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)  
+
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+### 📊 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailendra-iiitm&show_icons=true&theme=radical&hide_border=true)  
+
+**Top Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendra-iiitm&layout=compact&theme=radical)  
+
+**Streaks & Trophies:**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shailendra-iiitm&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shailendra-iiitm&theme=radical&margin-w=10)  
+
+---
+
+### 🔥 **Pinned Repositories**  
+[![Repo 1](https://github.com/shailendra-iiitm/Jan-Trinetra)  
+[![Repo 2](https://github.com/shailendra-iiitm/scribbleNsense)  
+[![Repo 3](https://github.com/shailendra-iiitm/scribbleNsense_backend) 
+---
+
+### 💡 **Random Dev Quote**  
+> “The best way to predict the future is to invent it.”  
+> — Alan Kay  
+
+---
+
+#### Thanks for visiting! ❤️  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shailendra-iiitm.shailendra-iiitm)  
