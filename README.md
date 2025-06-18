@@ -62,7 +62,7 @@
 - [**Guidely**](https://github.com/shailendra-iiitm/Guiedly) – *A platform connecting guides and learners for personalized knowledge sharing and sessions.*  
 - [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *AI-powered tool for mathematical scribbling and instant analysis.*  
 - [**scribbleNsense_backend**](https://github.com/shailendra-iiitm/scribbleNsense_backend) – *Backend service powering scribbleNsense’s real-time calculations and analysis.*  
-- [**Dear-Days**](https://github.com/shailendra-iiitm/Dear-Days) – *A digital memory gallery and social platform to cherish special moments.*  
+- [**Dear-Days**](https://github.com/shailendra-iiitm/DearDays) – *A digital memory gallery and social platform to cherish special moments.*  
 - [**Jan-Trinetra**](https://github.com/shailendra-iiitm/Jan-Trinetra) – *Citizen-centric platform for governance and fraud prevention with role-based access.*  
 
 
