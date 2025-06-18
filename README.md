@@ -58,9 +58,12 @@
 ---
 
 ### 🔥 **Pinned Repositories**  
-[![Repo 1](https://github.com/shailendra-iiitm/Jan-Trinetra)  
-[![Repo 2](https://github.com/shailendra-iiitm/scribbleNsense)  
-[![Repo 3](https://github.com/shailendra-iiitm/scribbleNsense_backend) 
+[Guidely](https://github.com/shailendra-iiitm/Guiedly) 
+[scribbleNsense](https://github.com/shailendra-iiitm/scribbleNsense)  
+[scribbleNsense_backend](https://github.com/shailendra-iiitm/scribbleNsense_backend) 
+[Dear-Days](https://github.com/shailendra-iiitm/Dear-Days)  
+[Jan-Trinetra](https://github.com/shailendra-iiitm/Jan-Trinetra)
+
 ---
 
 ### 💡 **Random Dev Quote**  
