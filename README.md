@@ -56,15 +56,15 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shailendra-iiitm&theme=radical&margin-w=10)  
 
 ---
+### 🔥 Pinned Repositories  
 
-### 🔥 **Pinned Repositories**  
-[Guidely](https://github.com/shailendra-iiitm/Guiedly) 
-[scribbleNsense](https://github.com/shailendra-iiitm/scribbleNsense)  
-[scribbleNsense_backend](https://github.com/shailendra-iiitm/scribbleNsense_backend) 
-[Dear-Days](https://github.com/shailendra-iiitm/Dear-Days)  
-[Jan-Trinetra](https://github.com/shailendra-iiitm/Jan-Trinetra)
+#### 🌟 Featured Projects  
+- [**Guidely**](https://github.com/shailendra-iiitm/Guiedly) – *A platform connecting guides and learners for personalized knowledge sharing and sessions.*  
+- [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *AI-powered tool for mathematical scribbling and instant analysis.*  
+- [**scribbleNsense_backend**](https://github.com/shailendra-iiitm/scribbleNsense_backend) – *Backend service powering scribbleNsense’s real-time calculations and analysis.*  
+- [**Dear-Days**](https://github.com/shailendra-iiitm/Dear-Days) – *A digital memory gallery and social platform to cherish special moments.*  
+- [**Jan-Trinetra**](https://github.com/shailendra-iiitm/Jan-Trinetra) – *Citizen-centric platform for governance and fraud prevention with role-based access.*  
 
----
 
 ### 💡 **Random Dev Quote**  
 > “The best way to predict the future is to invent it.”  
