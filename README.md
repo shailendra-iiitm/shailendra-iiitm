@@ -59,7 +59,7 @@
 ### 🔥 Pinned Repositories  
 
 #### 🌟 Featured Projects  
-- [**Guidely**](https://github.com/shailendra-iiitm/Guiedly) – *A platform connecting guides and learners for personalized knowledge sharing and sessions.*  
+- [**Guidely**](https://github.com/shailendra-iiitm/Guidely) – *A platform connecting guides and learners for personalized knowledge sharing and sessions.*  
 - [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *AI-powered tool for mathematical scribbling and instant analysis.*  
 - [**scribbleNsense_backend**](https://github.com/shailendra-iiitm/scribbleNsense_backend) – *Backend service powering scribbleNsense’s real-time calculations and analysis.*  
 - [**MemoRia**](https://github.com/shailendra-iiitm/MemoRia) – *A digital memory gallery and social platform to cherish special moments.*  
