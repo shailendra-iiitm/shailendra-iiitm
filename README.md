@@ -8,9 +8,9 @@
 
 ### 🚀 **About Me**  
 - 🔭 **Currently working on:** MERN stack projects.  
-- 🌱 **Learning:** Advanced backend ,IoT .  
+- 🌱 **Learning:** Advanced backend, IoT.  
 - 👯 **Looking to collaborate:** On open-source or innovative web projects.  
-- 💬 **Ask me about:** C++,C, Web development, JavaScript, or career growth in tech!  
+- 💬 **Ask me about:** C++, C, Web development, JavaScript, or career growth in tech!  
 - 📫 **Reach me:** shailendra@iiitmanipur.ac.in
 
 ---
@@ -59,15 +59,12 @@
 ### 🔥 Pinned Repositories  
 
 #### 🌟 Featured Projects  
-- [**Guidely**](https://github.com/shailendra-iiitm/Guidely) – *A platform connecting guides and learners for personalized knowledge sharing and sessions.*  
-- [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *AI-powered tool for mathematical scribbling and instant analysis.*  
-- [**scribbleNsense_backend**](https://github.com/shailendra-iiitm/scribbleNsense_backend) – *Backend service powering scribbleNsense’s real-time calculations and analysis.*  
-- [**MemoRia**](https://github.com/shailendra-iiitm/MemoRia) – *A digital memory gallery and social platform to cherish special moments.*  
-- [**Jan-Trinetra**](https://github.com/shailendra-iiitm/Jan-Trinetra) – *Citizen-centric platform for governance and fraud prevention with role-based access.*  
+- [**Guidely**](https://github.com/shailendra-iiitm/Guidely) – *A comprehensive MERN stack platform that bridges the gap between experienced guides and eager learners. Features include real-time booking system, secure payment integration, personalized learning sessions, and robust user management. Built with React, Node.js, MongoDB, and modern web technologies to create seamless knowledge-sharing experiences.*
 
+- [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *An innovative AI-powered application that transforms handwritten mathematical expressions into instant digital analysis. Leverages machine learning algorithms for mathematical symbol recognition, real-time computation, and interactive problem-solving. Perfect for students, educators, and professionals working with complex mathematical concepts.*  
 
 ### 💡 **Random Dev Quote**  
-> “The best way to predict the future is to invent it.”  
+> "The best way to predict the future is to invent it."  
 > — Alan Kay  
 
 ---
