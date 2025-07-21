@@ -1,7 +1,7 @@
 # Hi, I'm Shailendra 👋  
 **Full-Stack Developer | Open-Source Enthusiast | Tech Explorer**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shailendra-shukla.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailendra-shukla)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shailendra.shukla.1)  
 ---
