@@ -60,8 +60,7 @@
 
 #### 🌟 Featured Projects  
 
-- [**Tummy Smiles**](https://github.com/shailendra-iiitm/TummySmiles) – *A complete food donation platform that connects donors, agents, and admins through real-time location tracking, secure Razorpay payments, live chat, and intuitive dashboards. Built with React, Node.js, MongoDB, and Socket.IO to enable efficient, meaningful food redistribution with a modern UI.*
-
+- [**Tummy Smiles**](https://github.com/shailendra-iiitm/TummySmiles) – *A complete food donation platform that connects donors, agents, and admins through real-time location tracking, secure Razorpay payments, live chat, and intuitive dashboards. Built with React, Node.js, MongoDB, and Socket.IO, it provides a seamless and efficient way to reduce food waste, support communities, and deliver impact through a modern, mobile-first UI.*
 - [**Guidely**](https://github.com/shailendra-iiitm/Guidely) – *A comprehensive MERN stack platform that bridges the gap between experienced guides and eager learners. Features include real-time booking system, secure payment integration, personalized learning sessions, and robust user management. Built with React, Node.js, MongoDB, and modern web technologies to create seamless knowledge-sharing experiences.*
 
 - [**scribbleNsense**](https://github.com/shailendra-iiitm/scribbleNsense) – *An innovative AI-powered application that transforms handwritten mathematical expressions into instant digital analysis. Leverages machine learning algorithms for mathematical symbol recognition, real-time computation, and interactive problem-solving. Perfect for students, educators, and professionals working with complex mathematical concepts.*  
